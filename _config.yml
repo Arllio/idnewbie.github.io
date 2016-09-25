@@ -3,7 +3,7 @@ description: Blog Documentation
 author: Adhitya Putra
 logo: /idnewbie.github.io/static/img/avatar.png
 github: https://github.com/idnewbie
-about: Network Engineer |\sSystem Administration
+about: Network Engineer |\s\sSystem Administration
 
 baseurl: "https://idnewbie.github.io/"
 url: "https://idnewbie.github.io/"
