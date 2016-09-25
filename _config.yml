@@ -1,15 +1,15 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
+title: Adhitya Putra
+description: Blog Documentation
+author: Adhitya Putra
 logo: /idnewbie.github.io/static/img/avatar.png
-github: https://github.com/ashutosh2k12
-about: Freelance developer
+github: https://github.com/idnewbie
+about: Network Engineer | System Administration
 
 baseurl: "https://idnewbie.github.io/"
 url: "https://idnewbie.github.io/"
 
-disqus_shortname: 
-google_analytics: UA--1
+disqus_shortname: idnewbie
+google_analytics: 
 
 share:
   twitter_username: \#
